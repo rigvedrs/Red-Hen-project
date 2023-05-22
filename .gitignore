@@ -1,0 +1,117 @@
+extra/
+Data/.ipynb_checkpoints/
+./extra/coco2017labels-pose.zip
+./extra/coco_json/instances_train2017.json
+./extra/coco_json/captions_train2017.json
+./extra/coco_json/person_keypoints_train2017.json
+./extra/coco_json/instances_val2017.json
+./extra/coco2017labels-pose/coco-pose/annotations/instances_val2017.json
+./AdaIn Style Transfer/Unused torch/decoder.t7
+./AdaIn Style Transfer/Unused torch/decoder-content-similar.t7
+./AdaIn Style Transfer/Unused torch/vgg_normalised.t7
+./AdaIn Style Transfer/Pytorch implementation/pytorch-AdaIN/models/vgg_normalised.pth
+./AdaIn Style Transfer/Pytorch implementation/pytorch-AdaIN/models/decoder.pth
+./Universal Style Transfer/PytorchWCT/models/vgg_normalised_conv5_1.t7
+./Universal Style Transfer/PytorchWCT/models/vgg_normalised_conv4_1.t7
+./Universal Style Transfer/PytorchWCT/models/feature_invertor_conv5_1.t7
+./Universal Style Transfer/PytorchWCT/models/feature_invertor_conv4_1.t7
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/SEMST_Original/SEMST_Original_model_state.pth
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/SEMST_Auto/SEMST_Auto_model_state.pth
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/result/5_7.png
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/result/5_8.png
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/.git/objects/pack/pack-4c843206f94d48981e189a169a4af793fbaf823d.pack
+./Data/csv_files/metadata_v1.csv
+./Data/csv_files/metadata.csv
+./Data/csv_files/metadata_v2.csv
+./extra/coco2017labels-pose.zip
+./extra/coco_json/instances_train2017.json
+./extra/coco_json/captions_train2017.json
+./extra/coco_json/captions_val2017.json
+./extra/coco_json/person_keypoints_train2017.json
+./extra/coco_json/person_keypoints_val2017.json
+./extra/coco_json/instances_val2017.json
+./extra/coco2017labels-pose/coco-pose/train2017.txt
+./extra/coco2017labels-pose/coco-pose/labels/train2017
+./extra/coco2017labels-pose/coco-pose/annotations/person_keypoints_val2017.json
+./extra/coco2017labels-pose/coco-pose/annotations/instances_val2017.json
+./AdaIn Style Transfer/Unused torch/decoder.t7
+./AdaIn Style Transfer/Unused torch/examples/videoutput/cutBunny-stylized-woman_with_hat_matisse.mp4
+./AdaIn Style Transfer/Unused torch/examples/videoutput/cutBunny-stylized-mondrian.mp4
+./AdaIn Style Transfer/Unused torch/examples/style_interp.jpg
+./AdaIn Style Transfer/Unused torch/decoder-content-similar.t7
+./AdaIn Style Transfer/Unused torch/vgg_normalised.t7
+./AdaIn Style Transfer/Pytorch implementation/pytorch-AdaIN/models/vgg_normalised.pth
+./AdaIn Style Transfer/Pytorch implementation/pytorch-AdaIN/models/decoder.pth
+./AdaIn Style Transfer/Pytorch implementation/pytorch-AdaIN/.git/objects/pack/pack-9e7eb9f9f0e853e4d45915df18625fd9a9c22658.pack
+./Universal Style Transfer/PytorchWCT/models/vgg_normalised_conv5_1.t7
+./Universal Style Transfer/PytorchWCT/models/vgg_normalised_conv3_1.t7
+./Universal Style Transfer/PytorchWCT/models/vgg_normalised_conv4_1.t7
+./Universal Style Transfer/PytorchWCT/models/feature_invertor_conv5_1.t7
+./Universal Style Transfer/PytorchWCT/models/feature_invertor_conv3_1.t7
+./Universal Style Transfer/PytorchWCT/models/feature_invertor_conv4_1.t7
+./Universal Style Transfer/PytorchWCT/.git/objects/pack/pack-abd4bd10c6f7b9d9692947625b01b9d3e8c37974.pack
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/SEMST_Original/SEMST_Original_model_state.pth
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/SEMST_Original/style/Robert_Delaunay_1906_Portrait.jpg
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/SEMST_Auto/SEMST_Auto_model_state.pth
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/result/5_5.png
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/result/5_3.png
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/result/5_4.png
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/result/5_2.png
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/result/5_7.png
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/result/5_8.png
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/result/5_1.png
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/result/5_6.png
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/style/Robert_Delaunay_1906_Portrait.jpg
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/.git/objects/pack/pack-4c843206f94d48981e189a169a4af793fbaf823d.pack
+./.git/objects/06/1b63bd46fb79f9f470142dc7b353be05df7f7f
+./.git/objects/e6/05f2974df1fdeec7619ee62de29eae676aa09c
+./.git/objects/89/0b3dc9f2520744bc05b866467bfc197a178d46
+./.git/objects/be/3f176c4e8749c2d6c6c68f7f3a39f4958acf86
+./.git/objects/48/66ab169c7d916b64e4518cf9e8892a55bbb7de
+./.git/objects/f0/aa0d9951708ebe9edbf9dcbbb2199ecee04923
+./.git/objects/85/1b4dec9a1bd89c5c5569b7ed0499a67f25c9f5
+./.git/objects/53/270b933da6d249873eef5f70c4eac5d5c6b346
+AdaIn Style Transfer/Unused torch/examples/videoutput/cutBunny-stylized-woman_with_hat_matisse.mp4
+Universal Style Transfer/PytorchWCT/models/vgg_normalised_conv3_1.t7
+Universal Style Transfer/PytorchWCT/models/feature_invertor_conv3_1.t7
+./CAST Style Transfer/CAST_pytorch/models/style_vgg.pth
+./extra/coco_json/instances_train2017.json
+./extra/coco_json/person_keypoints_train2017.json
+./Data/csv_files/metadata_v2.csv
+./CAST Style Transfer/CAST_pytorch/models/vgg_normalised.pth
+./CAST Style Transfer/CAST_pytorch/models/style_vgg.pth
+./CAST Style Transfer/CAST_pytorch/checkpoints/CAST_model/latest_net_Dec_A.pth
+./CAST Style Transfer/CAST_pytorch/checkpoints/CAST_model/latest_net_AE.pth
+./CAST Style Transfer/CAST_pytorch/checkpoints/CAST_model/latest_net_Dec_B.pth
+./CAST Style Transfer/CAST_pytorch/checkpoints/experiment_name/latest_net_Dec_A.pth
+./CAST Style Transfer/CAST_pytorch/checkpoints/experiment_name/latest_net_AE.pth
+./CAST Style Transfer/CAST_pytorch/checkpoints/experiment_name/latest_net_Dec_B.pth
+./CAST Style Transfer/CAST_pytorch/Images/teaser.png
+./CAST Style Transfer/CAST_pytorch/.git/objects/pack/pack-34469981c45a1d6ae5281bec30e364ae299ea33a.pack
+./CAST Style Transfer/CAST_model/latest_net_Dec_A.pth
+./CAST Style Transfer/CAST_model/latest_net_AE.pth
+./CAST Style Transfer/CAST_model/latest_net_Dec_B.pth
+./CAST Style Transfer/CAST_model.zip
+./extra/coco2017labels-pose.zip
+./extra/coco_json/instances_train2017.json
+./extra/coco_json/captions_train2017.json
+./extra/coco_json/person_keypoints_train2017.json
+./extra/coco_json/person_keypoints_val2017.json
+./extra/coco_json/instances_val2017.json
+./extra/coco2017labels-pose/coco-pose/annotations/person_keypoints_val2017.json
+./extra/coco2017labels-pose/coco-pose/annotations/instances_val2017.json
+./AdaIn Style Transfer/Unused torch/examples/videoutput/cutBunny-stylized-mondrian.mp4
+./AdaIn Style Transfer/Pytorch implementation/pytorch-AdaIN/models/vgg_normalised.pth
+./AdaIn Style Transfer/Pytorch implementation/pytorch-AdaIN/models/decoder.pth
+./AdaIn Style Transfer/Pytorch implementation/pytorch-AdaIN/.git/objects/pack/pack-9e7eb9f9f0e853e4d45915df18625fd9a9c22658.pack
+./Universal Style Transfer/PytorchWCT/.git/objects/pack/pack-abd4bd10c6f7b9d9692947625b01b9d3e8c37974.pack
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/result/5_5.png
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/result/5_7.png
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/result/5_8.png
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/result/5_6.png
+./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/.git/objects/pack/pack-4c843206f94d48981e189a169a4af793fbaf823d.pack
+./.git/objects/f5/567aa31bf6588d9d7a8c846b5018f299c6e9e8
+./.git/objects/e6/05f2974df1fdeec7619ee62de29eae676aa09c
+./.git/objects/9a/9830aa81a74fa32793f75e20f98a2012c2ddd5
+./.git/objects/92/b30eda5372188ed600ed1913936193da3526f6
+./.git/objects/1c/c6dce50b3edfaa82f639fae85d66d72e1fa883
