@@ -1,7 +1,8 @@
 extra/
+Pipeline/
+*.csv
 Data/.ipynb_checkpoints/
-./Data/csv_files/metadata.csv
-./Data/csv_files/metadata_v2.csv
+AdaIn Style Transfer/pytorch-AdaIN
 ./CAST Style Transfer/CAST_pytorch/models/vgg_normalised.pth
 ./CAST Style Transfer/CAST_pytorch/models/style_vgg.pth
 ./CAST Style Transfer/CAST_pytorch/checkpoints/CAST_model/latest_net_Dec_A.pth
@@ -38,8 +39,4 @@ Data/.ipynb_checkpoints/
 ./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/result/5_8.png
 ./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/result/5_6.png
 ./SEMST Style Transfer/Structure-emphasized-Multimodal-Style-Transfer/.git/objects/pack/pack-4c843206f94d48981e189a169a4af793fbaf823d.pack
-./.git/objects/f5/567aa31bf6588d9d7a8c846b5018f299c6e9e8
-./.git/objects/e6/05f2974df1fdeec7619ee62de29eae676aa09c
-./.git/objects/9a/9830aa81a74fa32793f75e20f98a2012c2ddd5
-./.git/objects/92/b30eda5372188ed600ed1913936193da3526f6
-./.git/objects/1c/c6dce50b3edfaa82f639fae85d66d72e1fa883
+

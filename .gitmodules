@@ -1,0 +1,3 @@
+[submodule "Red-Hen-PoseTraining-Pipeline"]
+	path = Red-Hen-PoseTraining-Pipeline
+	url = https://github.com/rigvedrs/Red-Hen-PoseTraining-Pipeline.git
