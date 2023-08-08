@@ -1,3 +1,6 @@
 [submodule "Red-Hen-PoseTraining-Pipeline"]
 	path = Red-Hen-PoseTraining-Pipeline
 	url = https://github.com/rigvedrs/Red-Hen-PoseTraining-Pipeline.git
+[submodule "pytorch-AdaIN"]
+	path = pytorch-AdaIN
+	url = https://github.com/rigvedrs/pytorch-AdaIN.git
