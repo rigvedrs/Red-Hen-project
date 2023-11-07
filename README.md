@@ -1,4 +1,7 @@
 # Red-Hen-project
+
+## View the final pipeline [here](https://github.com/rigvedrs/Red-Hen-Gesture-Classifier)
+
 Here I shall be keeping track of all the work I am doing in my project. The work done includes 
 - Data analysis and preprocessing for obtaining the COCO dataset
 - Generating data using style transfer on the COCO using HPC and training the YOLO V8 pose detection model on it 
@@ -31,4 +34,4 @@ It consists of a palm pose detection module and a body pose detection module tha
 
 #### The code for obtaining the style transfered data and training the YOLO V8 pose detection model can be found [here](https://github.com/rigvedrs/Red-Hen-PoseTraining-Pipeline/tree/db4ece985fcf70cf9a202fdd3be7953e07a6f136)
 
-#### The Full Pipeline can be found here (To be uploaded soon)
+#### The Full Pipeline can be found [here](https://github.com/rigvedrs/Red-Hen-Gesture-Classifier)
