@@ -16,6 +16,7 @@ Here I shall be keeping track of all the work I am doing in my project. The work
 
 Refer my blog to understand everything I have done in case you want to work further on this. You can view the blog for this [here](https://medium.com/@rigvedrs/speech-gesture-recognition-in-christian-art-images-f19712104d7f)
 
+You can also view my progress slides [here](https://github.com/rigvedrs/Red-Hen-project/tree/a13f8d808397d9fac0e55d3d9666064b450889f8/slides) to view how my journey progressed.
 
 ## Proposed pipeline
 
